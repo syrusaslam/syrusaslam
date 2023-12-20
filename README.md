@@ -4,7 +4,7 @@
 
   - [Scheme Interpreter](https://github.com/syrusaslam/Scheme-Interpreter)
   - [Ants vs. SomeBees Game](https://github.com/syrusaslam/Ants-vs.-SomeBees-Game)
-  - [Autocorrected Typing Software](https://github.com/syrusaslam/Ants-vs.-SomeBees-Game)
+  - [Autocorrected Typing Software](https://github.com/syrusaslam/Autocorrected-Typing-Software)
   - [The Game of Hog](https://github.com/syrusaslam/The-Game-of-Hog)
 
 
