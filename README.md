@@ -7,13 +7,6 @@
   - [Autocorrected Typing Software](https://github.com/syrusaslam/Ants-vs.-SomeBees-Game)
   - [The Game of Hog](https://github.com/syrusaslam/The-Game-of-Hog)
 
-<h2> 🤳 Connect with me:</h2>
-
-
-[<img align="left" alt="SyrusAslam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-[linkedin]: [https://linkedin.com/in/syrus-aslam-a677b8203/]
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
