@@ -5,14 +5,13 @@
   - [Scheme Interpreter](https://github.com/syrusaslam/Scheme-Interpreter)
   - [Ants vs. SomeBees Game](https://github.com/syrusaslam/Ants-vs.-SomeBees-Game)
   - [Autocorrected Typing Software](https://github.com/syrusaslam/Ants-vs.-SomeBees-Game)
-
+  - [The Game of Hog](https://github.com/syrusaslam/The-Game-of-Hog)
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[<img align="left" alt="SyrusAslam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 
 [linkedin]: [https://linkedin.com/in/syrus-aslam-a677b8203/]
 
