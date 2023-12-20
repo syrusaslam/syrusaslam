@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Computer Science Projects:</h2>
 
-  - [Scheme Interpreter](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Scheme Interpreter](https://github.com/syrusaslam/Scheme-Interpreter)
 
 
 <h2> 🤳 Connect with me:</h2>
