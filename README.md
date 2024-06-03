@@ -1,16 +1,5 @@
 <h1>Hi, I'm Syrus! </h1>
 
-<h2>👨‍💻 Computer Science Projects:</h2>
-
-  - [Scheme Interpreter](https://github.com/syrusaslam/Scheme-Interpreter)
-  - [Ants vs. SomeBees Game](https://github.com/syrusaslam/Ants-vs.-SomeBees-Game)
-  - [Autocorrected Typing Software](https://github.com/syrusaslam/Autocorrected-Typing-Software)
-  - [The Game of Hog](https://github.com/syrusaslam/The-Game-of-Hog)
-
-
-<!--
-
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
