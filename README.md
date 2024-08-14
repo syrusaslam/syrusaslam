@@ -6,27 +6,22 @@
 
 ## 🗂️ Projects
 
-### [Neural Network and Perceptron Models for Digit Classification and Language Identification](https://github.com/yourusername/neural-network-project)
-- **Description**: Implemented and trained neural network and perceptron models for digit classification and language identification tasks. Achieved high accuracy through optimized neural network architectures.
-- **Tech Stack**: Python, PyTorch, Machine Learning.
+### [Predicting Volcanic Activity Using Infrasound Data](https://github.com/arnavsurve/ARC-NASA-CSGC-infrasound)
+- **Description**: Developed an infrasound monitor using Raspberry Pi to detect seismic and atmospheric activity through NASA California Space Grant Consortium. Implemented k-means and agglomerative clustering and neural networks using scikit-learn and TensorFlow with over 25 million values to analyze infrasound wave patterns for predicting volcanic activity with over 90% accuracy. Preprocessed data and enhanced the infrasound machine learning model, boosting accuracy by 20%.
+- **Tech Stack**: Python, TensorFlow, scikit-learn, pandas, numpy, obspy.
 
-### [Custom CPU Design in Logisim](https://github.com/yourusername/cpu-design-logisim)
-- **Description**: Developed a custom CPU in Logisim, focusing on implementing I-type and I*-type instructions. Emphasized efficient and streamlined solutions.
-- **Tech Stack**: Logisim, Digital Logic Design.
+### [AI-based Skin Disease Detection](https://github.com/syrusaslam/AI-Skin-Disease-Detection)
+- **Description**: Developed a convolutional neural network (CNN) using PyTorch for skin disease detection, achieving over 90% accuracy in classifying 8 types of skin diseases.Implemented a user-friendly web interface for seamless image uploads and real-time AI-driven disease predictions.
+- **Tech Stack**: Python, PyTorch, Node.js, HTML, CSS.
 
-### [Task Management CLI Tool](https://github.com/yourusername/taskman-cli)
-- **Description**: Built a CLI-based task management solution in Go using the Cobra CLI library. Designed to integrate with a potential iOS application.
-- **Tech Stack**: Go, Cobra CLI.
-
-### [AI-based Skin Disease Detection](https://github.com/yourusername/skin-disease-detection)
-- **Description**: Worked on an AI-based system for detecting skin diseases using image classification techniques.
-- **Tech Stack**: Python, Machine Learning, Computer Vision.
+### [Music Genre Classification and Recommendations Using Machine Learning Models](https://github.com/arnavsurve/sampling)
+- **Description**: Developed a convolutional neural network (CNN) using PyTorch for skin disease detection, achieving over 90% accuracy in classifying 8 types of skin diseases.Implemented a user-friendly web interface for seamless image uploads and real-time AI-driven disease predictions.
+- **Tech Stack**: Python, PyTorch, Node.js, HTML, CSS.
 
 ## 📫 Get in Touch
 
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourusername)
-- **Twitter**: [Your Twitter Handle](https://twitter.com/yourusername)
-- **Email**: your.email@example.com
+- **LinkedIn**: [Your LinkedIn Profile]((https://www.linkedin.com/in/syrus-aslam/))
+- **Email**: syrusa663@gmail.com
 
 ---
 
