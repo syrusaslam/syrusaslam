@@ -15,8 +15,8 @@
 - **Tech Stack**: Python, PyTorch, Node.js, HTML, CSS.
 
 ### [Music Genre Classification and Recommendations Using Machine Learning Models](https://github.com/arnavsurve/sampling)
-- **Description**: Developed a convolutional neural network (CNN) using PyTorch for skin disease detection, achieving over 90% accuracy in classifying 8 types of skin diseases.Implemented a user-friendly web interface for seamless image uploads and real-time AI-driven disease predictions.
-- **Tech Stack**: Python, PyTorch, Node.js, HTML, CSS.
+- **Description**: Developed a music genre classification system using random forest decision trees to accurately categorize new songs based on their audio features with over 80% accuracy. Utilized scikit-learn, librosa, and pandas for efficient feature extraction, data processing, validation testing, and model training, ensuring high performance and reliability in music genre prediction.
+- **Tech Stack**: Python, librosa, pandas, scikit-learn.
 
 ## 📫 Get in Touch
 
