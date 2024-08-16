@@ -20,7 +20,7 @@
 
 ## 📫 Get in Touch
 
-- **LinkedIn**: ((https://www.linkedin.com/in/syrus-aslam/))
+- **LinkedIn**: https://www.linkedin.com/in/syrus-aslam/
 - **Email**: syrusa663@gmail.com
 
 ---
