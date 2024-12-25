@@ -10,7 +10,7 @@
 - **Description**: Built an Ableton Live plugin that reads project-wide MIDI data and uses a pre-trained transformer neural network to generate melodies and chord progressions, seamlessly integrating new compositions within the Ableton UI. Utilized Max for Live and Ableton's API to rapidly prototype and deploy, enabling direct MIDI manipulation through JSON and UDP communication for real-time updates, minimizing disruptions to the creative flow.
 - **Tech Stack**: Python, JavaScript, Hugging Face.
 
-### [Predicting Volcanic Activity Using Infrasound Data](https://github.com/arnavsurve/ARC-NASA-CSGC-infrasound)
+### [Predicting Volcanic Activity Using Infrasound Data](https://github.com/arnavsurve/ARC-NASA-CSGC-infrasound/tree/dataset-testing)
 - **Description**: Developed an infrasound monitor using Raspberry Pi to detect seismic and atmospheric activity through NASA California Space Grant Consortium. Implemented k-means and agglomerative clustering and neural networks using scikit-learn and TensorFlow with over 25 million values to analyze infrasound wave patterns for predicting volcanic activity with over 90% accuracy. Preprocessed data and enhanced the infrasound machine learning model, boosting accuracy by 20%.
 - **Tech Stack**: Python, TensorFlow, scikit-learn, pandas, numpy, obspy.
 
