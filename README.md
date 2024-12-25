@@ -26,11 +26,3 @@
 
 - **LinkedIn**: https://www.linkedin.com/in/syrus-aslam/
 - **Email**: syrusa663@gmail.com
-
----
-
-### 📝 More About Me
-
-- 🔧 I'm actively learning new technologies and exploring innovative solutions.
-- 🎯 My goal is to create impactful software and contribute to open-source projects.
-- 🌱 Always open to collaboration and learning opportunities.
