@@ -1,4 +1,4 @@
-# Hi, I'm Syrus! 👋
+# Hi, I'm Syrus!
 
 - I’m currently an Applied Math and Computer Science student at UC Berkeley.
 - I have a passion for AI, machine learning, and software development.
