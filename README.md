@@ -1,10 +1,10 @@
 # Hi, I'm Syrus! 👋
 
-- 🎓 I’m currently an Applied Math and Computer Science student at UC Berkeley.
-- 🌟 I have a passion for AI, machine learning, and software development.
-- 🚀 Below are some of my projects and contributions:
+- I’m currently an Applied Math and Computer Science student at UC Berkeley.
+- I have a passion for AI, machine learning, and software development.
+- Below are some of my projects and contributions:
 
-## 🗂️ Projects
+## Projects
 
 ### [Melodify AI](https://github.com/melodify-ai)
 - **Description**: Built an Ableton Live plugin that reads project-wide MIDI data and uses a pre-trained transformer neural network to generate melodies and chord progressions, seamlessly integrating new compositions within the Ableton UI. Utilized Max for Live and Ableton's API to rapidly prototype and deploy, enabling direct MIDI manipulation through JSON and UDP communication for real-time updates, minimizing disruptions to the creative flow.
@@ -22,7 +22,7 @@
 - **Description**: Developed a music genre classification system using random forest decision trees to accurately categorize new songs based on their audio features with over 80% accuracy. Utilized scikit-learn, librosa, and pandas for efficient feature extraction, data processing, validation testing, and model training, ensuring high performance and reliability in music genre prediction.
 - **Tech Stack**: Python, librosa, pandas, scikit-learn.
 
-## 📫 Get in Touch
+## Get in Touch
 
 - **LinkedIn**: https://www.linkedin.com/in/syrus-aslam/
 - **Email**: syrusa663@gmail.com
